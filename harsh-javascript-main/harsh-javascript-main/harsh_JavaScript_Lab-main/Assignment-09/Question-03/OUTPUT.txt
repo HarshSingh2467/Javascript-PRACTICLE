@@ -1,0 +1,3 @@
+On first open, box value: ''
+localStorage note after Save: Submit the lab file on Friday
+After reload, box value: 'Submit the lab file on Friday'
